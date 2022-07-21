@@ -1,1 +1,16 @@
-Anotações para o Curso de Java Script
+#Anotações para o Curso de Java Script / HTML / CSS
+
+Tag - Atrubuto - Conteudo - Tag de fechamento.
+
+Estrutura basica
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title></title>
+</head>
+<body>
+<!-- Conteúdo -->
+</body>
+</html>
+
