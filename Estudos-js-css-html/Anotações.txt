@@ -14,3 +14,19 @@ Estrutura basica
 </body>
 </html>
 
+<p>Paragrafo</p>
+<a>LINK</a>
+## href ( direciona a um link)
+
+###Ex
+ <a href="https://github.com/Dfaguiar2/dio-desafio/tree/main/Estudos-js-css-html">Repositorio git</a>
+
+mailto para email
+tel para telefones
+
+##Target indica como o link sera aberto
+blank - indica que o link vai ser aberto em uma nova aba
+###Ex:
+<a target="_blank">link</a>
+
+
