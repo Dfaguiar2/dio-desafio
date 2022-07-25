@@ -1,16 +1,31 @@
 body{
     background: #f7f7f7;
+    font-family: verdana;
+    max-width: 900px;
+    margin:auto;
+
+
+
 }
 
 .dio_image{
     border-radius: 50%;
     border: 1px solid #505050
 
-    
 }
 
 #title, .subtitle, .post_title{
     color: #505050;
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: underline;
+    color:#505050
 }
 
 .post_title{
@@ -34,9 +49,20 @@ body{
 .post_content{
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
 
 }
 .post_image{
     margin-bottom: 15px;
+    width: 100%;
 
+}
+
+.lista_links{
+    list-style-type: none;
+    padding-left: 15px;
+}
+.lista_links li a {
+    color: blue;
+    text-decoration: none;
 }
